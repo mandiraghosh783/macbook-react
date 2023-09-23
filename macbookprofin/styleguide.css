@@ -1,0 +1,28 @@
+:root {
+  --grey-1-color: rgba(184, 184, 184, 1);
+  --grey-2-color: rgba(134, 134, 134, 1);
+  --h2-semibold-26-font-family: "Roboto-SemiBold", Helvetica;
+  --h2-semibold-26-font-size: 26px;
+  --h2-semibold-26-font-style: normal;
+  --h2-semibold-26-font-weight: 600;
+  --h2-semibold-26-letter-spacing: 0.26px;
+  --h2-semibold-26-line-height: 150%;
+  --m3-label-large-font-family: "Roboto-Medium", Helvetica;
+  --m3-label-large-font-size: 14px;
+  --m3-label-large-font-style: normal;
+  --m3-label-large-font-weight: 500;
+  --m3-label-large-letter-spacing: 0.10000000149011612px;
+  --m3-label-large-line-height: 20px;
+  --m3syslighton-primary: rgba(255, 255, 255, 1);
+  --primary-color: rgba(249, 97, 103, 1);
+  --secondary-color: rgba(1, 109, 90, 1);
+  --subhead-medium-24-font-family: "Roboto-Medium", Helvetica;
+  --subhead-medium-24-font-size: 24px;
+  --subhead-medium-24-font-style: normal;
+  --subhead-medium-24-font-weight: 500;
+  --subhead-medium-24-letter-spacing: 0px;
+  --subhead-medium-24-line-height: 150%;
+  --text-color: rgba(68, 68, 68, 1);
+  --white: rgba(255, 255, 255, 1);
+  --white-color: rgba(255, 255, 255, 1);
+}
